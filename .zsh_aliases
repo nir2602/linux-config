@@ -9,3 +9,5 @@ alias hyprconfig='nvim ~/.config/hypr/hyprland.conf'
 # shortcuts to servers 
 alias timberlea="ssh kazatsker@timberlea.cs.dal.ca"
 alias dalgpu5="ssh kazatsker@qiang-gpu5.research.cs.dal.ca"
+
+alias cx="chmod +x"
